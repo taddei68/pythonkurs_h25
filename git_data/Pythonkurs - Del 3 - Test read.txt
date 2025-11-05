@@ -1,0 +1,2 @@
+This is a reading test.
+A plain textfile.
